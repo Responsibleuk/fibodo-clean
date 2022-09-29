@@ -215,7 +215,7 @@ kbd {
 }
 
 .cs-preloader_in {
-  background: linear-gradient(116.85deg, #FC466B 0%, #3F5EFB 100%);
+  background: linear-gradient(116.85deg, #ffffff 0%, #939393 100%);
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -2473,6 +2473,12 @@ kbd {
 .cs-profile_nav a:hover, .cs-profile_nav a.active {
   background-color: #3772ff;
   color: #fff;
+}
+
+.nav-italics {
+  font-style: italic;
+  padding-right: 5px;
+  size-adjust: smaller;
 }
 
 .cs-profile_right {
